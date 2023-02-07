@@ -22,9 +22,14 @@ FLOW OF THE PROJECT
 CLASSIFIERS USED
 
 Logistic Regression                   Accuracy = 89.75%
+
 Random Forest Classifier              Accuracy = 89.75%
+
 Linear Support Vector Classifier      Accuracy = 89.33%
+
 AdaBoost Classifier                   Accuracy = 93.56%
+
 XGBoost Classifier                    Accuracy = 89.79%
+
 
 After tuning the best model (AdaBoost), model accuracy increases to 95.6%.
